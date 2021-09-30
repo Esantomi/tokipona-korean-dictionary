@@ -1,6 +1,6 @@
 {
-  "name": "tokiponadictionary",
-  "description": "A simple Toki Pona - English dictionary with search function.",
+  "name": "tokipona-korean-dictionary",
+  "description": "A simple Toki Pona - Korean dictionary with search function.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "lint": "eslint src/",
@@ -9,8 +9,8 @@
     "start:prod": "webpack-dev-server --open --host 0.0.0.0 --config webpack.prod.js",
     "build": "webpack --config webpack.prod.js"
   },
-  "author": "jProgr <8537691@gmail.com> (https://github.com/jProgr)",
-  "repository": "github:jProgr/TokiPonaDictionary",
+  "author": "Esantomi <deomi@knou.ac.kr> (https://github.com/Esantomi)",
+  "repository": "github:Esantomi/TokiPonaDictionary",
   "license": "Unlicense",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
@@ -31,3 +31,5 @@
   },
   "dependencies": {}
 }
+
+// "author": "jProgr <8537691@gmail.com> (https://github.com/jProgr)"

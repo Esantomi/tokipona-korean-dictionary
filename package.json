@@ -1,5 +1,5 @@
 {
-  "name": "tokipona-korean-dictionary",
+  "name": "tokiponadictionary",
   "description": "A simple Toki Pona - Korean dictionary with search function.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -29,5 +29,7 @@
     "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.11.0"
   },
-  "dependencies": {}
+  "dependencies": {
+    "optionator": "^0.9.1"
+  }
 }

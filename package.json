@@ -8,6 +8,7 @@
     "start:open": "webpack-dev-server --open --host 0.0.0.0 --config webpack.dev.js",
     "start:prod": "webpack-dev-server --open --host 0.0.0.0 --config webpack.prod.js",
     "build": "webpack --config webpack.prod.js",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
   "author": "Esantomi <deomi@knou.ac.kr> (https://github.com/Esantomi)",

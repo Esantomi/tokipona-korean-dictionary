@@ -6,7 +6,7 @@
 
 이 사전은 여러 출처의 정보를 취합한 것으로, 자세한 것은 CREDITS.md 파일을 참조하기 바란다.
 
-본 페이지는 [jProgr 님의 TokiPonaDictionary]를 수정 및 변형하여 제작한 것임을 분명하게 밝힌다.
+본 페이지는 [jProgr 님의 TokiPonaDictionary](https://github.com/jProgr/TokiPonaDictionary)를 수정 및 변형하여 제작한 것임을 분명하게 밝힌다.
 
 ## Development
 

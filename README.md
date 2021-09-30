@@ -1,10 +1,12 @@
-# Toki Pona dictionary
+# 도기 보나-한국어 사전
 
-A simple Toki Pona - English dictionary with search function.
+검색 기능이 있는 간단한 도기 보나-한국어 사전
 
-This dictionary strives to cover all the words as used by Toki Pona speakers without forgetting about the official dictionary. So it includes some unofficial words and meanings but they are always marked with an asterisk.
+그때그때 도기 보나 단어를 찾아보기 위한 목적에서 만들었으며, pu word뿐 아니라 ku word까지 망라할 예정이다. (현재 작업 중)
 
-This dictionary uses many sources for its information, please see the credits file for more detail.
+이 사전은 여러 출처의 정보를 취합한 것으로, 자세한 것은 CREDITS.md 파일을 참조하기 바란다.
+
+본 페이지는 [jProgr 님의 TokiPonaDictionary]를 수정 및 변형하여 제작한 것임을 분명하게 밝힌다.
 
 ## Development
 

@@ -3,8 +3,8 @@
     "word": "a",
     "meanings": [
       [
-        "감탄사",
-        "와! 어? 아... 하하 (강조나 감탄을 나타내는 단어)"
+        "interj",
+        "ah! ha! oh! ooh! aw! (emotion word)"
       ]
     ]
   },
@@ -12,8 +12,8 @@
     "word": "akesi",
     "meanings": [
       [
-        "명사",
-        "안 귀여운 동물, 양서류, 파충류"
+        "n",
+        "non-cute animal, reptile, amphibian, dinosaur, monster"
       ]
     ]
   },
@@ -21,8 +21,8 @@
     "word": "ala",
     "meanings": [
       [
-        "수식어",
-        "0, 아니다, 아닌, 반대의, 아무것도 없는"
+        "mod",
+        "no, not, none, un-"
       ],
       [
         "n",

@@ -4,7 +4,11 @@
     "meanings": [
       [
         "interj",
-        "ah! ha! oh! ooh! aw! (emotion word)"
+        "오! 아! (강조나 감탄을 나타내는 단어)"
+      ],
+      [
+        "oth",
+        "a a a로 세 번 쓰면 '하하하'가 됨"
       ]
     ]
   },
@@ -13,7 +17,7 @@
     "meanings": [
       [
         "n",
-        "non-cute animal, reptile, amphibian, dinosaur, monster"
+        "양서류, 파충류 (안 귀여운 동물)"
       ]
     ]
   },
@@ -22,15 +26,15 @@
     "meanings": [
       [
         "mod",
-        "no, not, none, un-"
+        "아니다, 아닌, 반대의, 아무것도 없는"
       ],
       [
         "n",
-        "nothingness, negation, zero"
+        "무(無), 부정, 0"
       ],
       [
         "interj",
-        "no!"
+        "안 돼!"
       ]
     ]
   },
@@ -38,16 +42,12 @@
     "word": "alasa",
     "meanings": [
       [
-        "mod",
-        "hunting-, -hunting, hunting"
-      ],
-      [
         "n",
-        "hunting"
+        "사냥, 검색"
       ],
       [
         "vt",
-        "to hunt, to forage"
+        "사냥하다, 먹이를 찾다, 검색하다, 찾다, ~하려 노력하다, ~를 시도하다"
       ]
     ]
   },
@@ -56,11 +56,11 @@
     "meanings": [
       [
         "n",
-        "everything, anything, life, the universe"
+        "모두, 모든 것, 삶, 우주"
       ],
       [
         "mod",
-        "all, every, complete, whole"
+        "모든, 모두의"
       ]
     ]
   },
@@ -69,15 +69,15 @@
     "meanings": [
       [
         "n",
-        "bottom, down, under, below, floor, beneath"
+        "아래, 밑"
       ],
       [
         "mod",
-        "low, lower, bottom"
+        "낮은, 아래의"
       ],
       [
         "vt",
-        "lower, down, defeat, overcome"
+        "내리다, 낮추다, ~를 이기다"
       ]
     ]
   },
@@ -86,19 +86,19 @@
     "meanings": [
       [
         "n",
-        "difference"
+        "차이"
       ],
       [
         "mod",
-        "different"
+        "다른, 대안의"
       ],
       [
         "cont",
-        "otherwise, or else"
+        "아니면, 다르게는"
       ],
       [
         "vt",
-        "change, alter, modify"
+        "바꾸다, 수정하다, 변환하다"
       ]
     ]
   },
@@ -107,7 +107,7 @@
     "meanings": [
       [
         "conj",
-        "or"
+        "또는"
       ]
     ]
   },
@@ -116,15 +116,11 @@
     "meanings": [
       [
         "vi",
-        "stay, wait, remain"
+        "남다, 기다리다, 머물다"
       ],
       [
         "vt",
-        "keep"
-      ],
-      [
-        "mod",
-        "remaining, stationary, permanent, sedentary"
+        "지키다"
       ]
     ]
   },
@@ -133,7 +129,7 @@
     "meanings": [
       [
         "sep",
-        "(introduces a direct object)"
+        "~을/를 (뒤에 직접 목적어를 받음)"
       ]
     ]
   },
@@ -142,7 +138,7 @@
     "meanings": [
       [
         "conj",
-        "and (used to coordinate head nouns)"
+        "그리고 (명사 나열 시 사용)"
       ]
     ]
   },
@@ -151,15 +147,15 @@
     "meanings": [
       [
         "n",
-        "market, shop, fair, bazaar, business, transaction"
+        "가게, 시장, 상업, 거래"
       ],
       [
         "mod",
-        "commercial, trade, marketable, for sale, salable, deductible"
+        "상업의, 판매하는"
       ],
       [
         "vt",
-        "to buy, to sell, to barter, to swap"
+        "사다, 팔다, 거래하다"
       ]
     ]
   },
@@ -168,15 +164,15 @@
     "meanings": [
       [
         "n",
-        "thing, something, stuff, anything, object"
+        "것, 물건, 무언가, 어떤 것"
       ],
       [
         "mod",
-        "of something"
+        "무언가의"
       ],
       [
         "vt",
-        "objectify"
+        "대상화하다"
       ]
     ]
   },
@@ -185,23 +181,23 @@
     "meanings": [
       [
         "mod",
-        "bad, evil, wrong, evil, overly complex, (figuratively) unhealthy"
+        "나쁜, 악한, 틀린, 복잡한"
       ],
       [
         "interj",
-        "oh dear! woe! alas!"
+        "이런! 맙소사!"
       ],
       [
         "n",
-        "negativity, evil, badness"
+        "나쁨, 악"
       ],
       [
         "vt",
-        "to make bad, to worsen, to have a negative effect upon"
+        "나쁘게 하다"
       ],
       [
         "vi",
-        "to be bad, to suck"
+        "망하다"
       ]
     ]
   },
@@ -210,7 +206,7 @@
     "meanings": [
       [
         "n",
-        "tool, device, machine, thing used for a specific purpose"
+        "도구, 기계"
       ]
     ]
   },
@@ -219,11 +215,11 @@
     "meanings": [
       [
         "n",
-        "inside, inner world, centre, stomach"
+        "안, 중심, 위장"
       ],
       [
         "mod",
-        "internal, central"
+        "내부의, 중심의"
       ]
     ]
   },
@@ -232,19 +228,19 @@
     "meanings": [
       [
         "mod",
-        "dirty, gross, filthy"
+        "더러운, 역겨운"
       ],
       [
         "n",
-        "dirt, pollution, filth"
+        "오염, 더러움"
       ],
       [
         "vt",
-        "pollute, dirty"
+        "더럽히다"
       ],
       [
         "interj",
-        "ew! yuck!"
+        "우웩!"
       ]
     ]
   },
@@ -253,15 +249,15 @@
     "meanings": [
       [
         "n",
-        "person, people, human, being, somebody, anybody"
+        "사람, 인간"
       ],
       [
         "mod",
-        "personal, human, somebody's, of people"
+        "인간의"
       ],
       [
         "vt",
-        "personify, humanize, personalize"
+        "개인화하다"
       ]
     ]
   },
@@ -269,8 +265,12 @@
     "word": "jelo",
     "meanings": [
       [
+        "n",
+        "노랑, 노란색"
+      ],
+      [
         "mod",
-        "yellow, light green"
+        "노란"
       ]
     ]
   },
@@ -279,15 +279,11 @@
     "meanings": [
       [
         "vt",
-        "have, contain"
-      ],
-      [
-        "n",
-        "having"
+        "가지다"
       ],
       [
         "kama",
-        "receive, get, take, obtain"
+        "얻다 (갖게 되다)"
       ]
     ]
   },
@@ -296,7 +292,7 @@
     "meanings": [
       [
         "n",
-        "fish, sea creature"
+        "물고기, 바다 생물"
       ]
     ]
   },
@@ -305,15 +301,15 @@
     "meanings": [
       [
         "n",
-        "sound, noise, voice"
+        "소리, 소음"
       ],
       [
         "vi",
-        "make noise"
+        "소리를 내다"
       ],
       [
         "vt",
-        "sound, ring, play (an instrument)"
+        "소리가 나다, (악기를) 연주하다"
       ]
     ]
   },

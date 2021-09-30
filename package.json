@@ -7,11 +7,13 @@
     "start": "npm run lint && webpack-dev-server --open --config webpack.dev.js",
     "start:open": "webpack-dev-server --open --host 0.0.0.0 --config webpack.dev.js",
     "start:prod": "webpack-dev-server --open --host 0.0.0.0 --config webpack.prod.js",
-    "build": "webpack --config webpack.prod.js"
+    "build": "webpack --config webpack.prod.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "author": "jProgr <8537691@gmail.com> (https://github.com/jProgr)",
   "retoucher": "Esantomi <deomi@knou.ac.kr> (https://github.com/Esantomi)",
-  "repository": "https://github.com/Esantomi/tokipona-korean-dictionary",
+  "homepage": "https://github.com/Esantomi/tokipona-korean-dictionary",
   "license": "Unlicense",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
@@ -20,6 +22,7 @@
     "css-minimizer-webpack-plugin": "^1.1.5",
     "eslint": "^7.3.1",
     "file-loader": "^6.0.0",
+    "gh-pages": "^3.2.3",
     "html-inline-css-webpack-plugin": "^1.9.1",
     "html-webpack-plugin": "^4.3.0",
     "mini-css-extract-plugin": "^1.3.1",

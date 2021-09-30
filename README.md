@@ -1,59 +1,15 @@
 # 도기 보나-한국어 사전
 
-검색 기능이 있는 간단한 도기 보나-한국어 사전
+검색 기능을 탑재한 도기 보나(toki pona)-한국어(korean) 사전입니다.
 
-그때그때 도기 보나 단어를 찾아보기 위한 목적에서 만들었으며, pu word뿐 아니라 ku word까지 망라할 예정이다. (현재 작업 중)
+한국인 도기 보나 학습자를 위해 만들어졌으며, 공식 단어(pu word)뿐 아니라 비공식 단어 및 ku word까지 어느 정도 망라할 예정입니다.
 
-이 사전은 여러 출처의 정보를 취합한 것으로, 자세한 것은 CREDITS.md 파일을 참조하기 바란다.
+이 사전의 내용물은 여러 출처의 정보를 취합한 것으로, 자세한 것은 `CREDITS.md` 파일을 참조하기 바랍니다.
 
-본 페이지는 [jProgr 님의 TokiPonaDictionary](https://github.com/jProgr/TokiPonaDictionary)를 수정 및 변형하여 제작한 것임을 분명하게 밝힌다.
+또한 본 웹 서비스는 [jProgr 님의 TokiPonaDictionary](https://github.com/jProgr/TokiPonaDictionary)를 수정 및 변형하여 제작한 것임을 분명하게 밝힙니다.
 
-## Development
+## 개발
 
-The project uses NPM and its ecosystem. So to run it you need at least:
+내용 수정 후 re-build 및 re-deploy 필요.
 
-- Node 14.
-
-To begin install depencies using NPM:
-
-```
-npm i
-```
-
-Now you can start up a server for development:
-
-```
-npm start
-```
-
-This will lint the code and make the page available at `http://localhost:9000/`.
-
-### Build
-
-To build everything for release or deployment use:
-
-```
-npm run build
-```
-
-### Utilities
-
-The project includes other commands to aid development.
-
-To see the page in any other device in your local netwrok you can use the following command:
-
-```
-npm run start:open
-```
-
-This will make the page available under `<IP of the device running the dev server>:9000`. Good for testing in mobile devices.
-
-The command `npm run start:prod` does the same but uses production mode (more optimizations).
-
-#### Linting
-
-To project uses ESLint, to run it use:
-
-```
-npm run lint
-```
+`npm run deploy`을 통해 build, deploy 동시 가능

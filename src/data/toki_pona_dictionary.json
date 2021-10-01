@@ -318,19 +318,19 @@
     "meanings": [
       [
         "n",
-        "event, happening, chance, arrival, beginning"
+        "사건, 기회, 도착, 시작"
       ],
       [
         "mod",
-        "coming, future"
+        "다가오는, 미래의"
       ],
       [
         "vi",
-        "come, become, arrive, happen, pursue actions to arrive to (a certain state), manage to, start to"
+        "오다, ~가 되다, 도착하다, 일어나다, ~에 도착하다, 간신히 ~하다, ~를 시작하다"
       ],
       [
         "vt",
-        "bring about, summon"
+        "~를 유발하다, 소환하다"
       ]
     ]
   },
@@ -339,7 +339,7 @@
     "meanings": [
       [
         "n",
-        "plant, leaf, herb, tree, wood"
+        "식물, 잎, 허브, 나무"
       ]
     ]
   },
@@ -348,19 +348,19 @@
     "meanings": [
       [
         "n",
-        "possibility, ability, power to do things, permission"
+        "가능성, 능력, 허가"
       ],
       [
         "vi",
-        "can, is able to, is allowed to, may, is possible"
+        "~할 수 있다, ~하는 것이 허용되다"
       ],
       [
         "vt",
-        "make possible, enable, allow, permit"
+        "~를 가능하게 하다, 허락하다"
       ],
       [
         "cont",
-        "it is possible that"
+        "~할 가능성이 있다"
       ]
     ]
   },
@@ -368,12 +368,17 @@
     "word": "kepeken",
     "meanings": [
       [
-        "vt",
-        "use"
-      ],
-      [
         "prep",
-        "with"
+        "~를 사용하여, ~를 써서"
+      ]
+    ]
+  },
+{
+    "word": "kijetesantakalu",
+    "meanings": [
+      [
+        "n",
+        "아메리카너구리과 동물, 라쿤, 긴코너구리"
       ]
     ]
   },
@@ -382,7 +387,7 @@
     "meanings": [
       [
         "n",
-        "fruit, pulpy vegetable, mushroom"
+        "과일, 과육이 있는 채소"
       ]
     ]
   },
@@ -391,15 +396,15 @@
     "meanings": [
       [
         "mod",
-        "also, too, still, really, even, indeed"
+        "또한, 아직, 정말로, 심지어"
       ],
       [
         "interj*",
-        "really!, truly!, indeed!"
+        "진짜야!, 정말로!"
       ],
       [
         "cont*",
-        "moreover, indeed, in addition"
+        "더욱이, 게다가"
       ]
     ]
   },
@@ -408,11 +413,11 @@
     "meanings": [
       [
         "n*",
-        "section, fragment, slice"
+        "구획, 파편, 조각"
       ],
       [
         "vt*",
-        "to cut"
+        "자르다"
       ]
     ]
   },
@@ -421,11 +426,11 @@
     "meanings": [
       [
         "n",
-        "hard thing, rock, stone, metal, mineral, clay"
+        "단단한 것, 돌, 바위, 철, 광석"
       ],
       [
         "mod",
-        "hard, solid, stone-like, made of stone or metal"
+        "단단한, 고체의, 돌같은, 돌이나 철로 만들어진"
       ]
     ]
   },
@@ -434,24 +439,52 @@
     "meanings": [
       [
         "n",
-        "semi-solid or squishy substance; clay, dough, glue, paste, powder, gum"
+        "반고체, 점토, 반죽, 풀, 가루, 껌"
       ],
       [
         "vt",
-        "to squash, to pulverize"
+        "짓누르다, 분쇄하다"
       ]
     ]
+  },
+  {
+    "word": "kokosila",
+    "meanings": [
+      [
+        "n",
+        "도기 보나가 적절한 상황에서 도기 보나를 쓰지 않는 것"
+      ],
+      [
+        "vi",
+        "도기 보나가 적절한 상황에서 도기 보나를 쓰지 않다"
   },
   {
     "word": "kon",
     "meanings": [
       [
         "n",
-        "air, wind, odour, soul"
+        "공기, 바람, 냄새, 영혼, 의미"
       ],
       [
         "mod",
-        "air-like, ethereal, gaseous"
+        "공기같은, 천상의, 기체의"
+      ]
+    ]
+  },
+  {
+    "word": "ku",
+    "meanings": [
+      [
+        "n",
+        "공식 사전 Toki Pona Dictionary를 구매하고 상호작용하는 것"
+      ],
+      [
+        "mod",
+        "b공식 사전 Toki Pona Dictionary를 구매하고 상호작용하는"
+      ],
+      [
+        "vi",
+        "공식 사전 Toki Pona Dictionary를 구매하고 상호작용하다"
       ]
     ]
   },
@@ -460,15 +493,15 @@
     "meanings": [
       [
         "n",
-        "color, paint"
+        "색, 페인트"
       ],
       [
         "vt",
-        "color, paint"
+        "색칠하다, 칠하다"
       ],
       [
         "mod",
-        "colourful"
+        "다채로운"
       ]
     ]
   },
@@ -477,11 +510,11 @@
     "meanings": [
       [
         "n",
-        "group, community, society, company"
+        "조직, 집단, 공동체, 사회, 회사"
       ],
       [
         "mod",
-        "communal, shared, public, of the society"
+        "공통된, 공유된, 공공의, 사회의"
       ]
     ]
   },
@@ -490,11 +523,11 @@
     "meanings": [
       [
         "vt",
-        "listen, hear"
+        "듣다"
       ],
       [
         "mod",
-        "auditory, hearing"
+        "청각의, 듣는"
       ]
     ]
   },
@@ -503,7 +536,16 @@
     "meanings": [
       [
         "sep",
-        "(between adverb or phrase of context and sentence)"
+        "맥락 부사절/부사구 표시자"
+      ]
+    ]
+  },
+  {
+    "word": "lanpan",
+    "meanings": [
+      [
+        "vt",
+        "훔치다, 붙잡다, 쥐다, 잡다"
       ]
     ]
   },
@@ -511,12 +553,16 @@
     "word": "lape",
     "meanings": [
       [
-        "n, vi",
-        "sleep, rest"
+        "n",
+        "수면, 휴식"
+      ],
+      [
+        "vt",
+        "자다, 휴식하다"
       ],
       [
         "mod",
-        "sleeping, of sleep"
+        "자는"
       ]
     ]
   },
@@ -525,7 +571,7 @@
     "meanings": [
       [
         "mod",
-        "blue, blue-green"
+        "푸른, 청녹색의"
       ]
     ]
   },
@@ -534,15 +580,15 @@
     "meanings": [
       [
         "n",
-        "head, mind"
+        "머리, 정신"
       ],
       [
         "mod",
-        "main, leading, in charge"
+        "중심의, 이끄는, 담당한"
       ],
       [
         "vt",
-        "lead, control, rule, steer"
+        "이끌다, 조종하다, 지배하다"
       ]
     ]
   },
@@ -551,7 +597,7 @@
     "meanings": [
       [
         "n",
-        "clothing, cloth, fabric"
+        "옷, 천, 옷감"
       ]
     ]
   },

@@ -16,7 +16,11 @@
 
 ## 개발
 
-**한국도기보나모임(kulupu pi toki pona pi ma Anku)**에서 개발을 맡고 있으며, 내용 수정 및 보강이 있을 때마다 rebuild 및 redeploy가 필요합니다.
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61646760/135614025-cb8e7448-826d-446c-8b52-3f3c1c4ae420.jpg" width="20%" height="20%">
+</p>
+
+현재 **한국도기보나모임**<sub>kulupu pi toki pona pi ma Anku</sub>에서 개발을 맡고 있으며, 내용 수정 및 보강이 있을 때마다 rebuild 및 redeploy가 필요합니다.
 
 - `npm run deploy`을 통해 build, deploy를 동시에 수행할 수 있습니다. (package.json 참고)
 - github가 정적 페이지 호스팅을 지원하므로 gh-pages를 활용하여 배포하여야 합니다.

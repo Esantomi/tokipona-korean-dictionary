@@ -19,7 +19,7 @@
 **한국도기보나모임**<sub>kulupu pi toki pona pi ma Anku</sub>에서 개발을 맡고 있습니다.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/61646760/135614025-cb8e7448-826d-446c-8b52-3f3c1c4ae420.jpg" width="30%" height="30%">
+  <img src="https://user-images.githubusercontent.com/61646760/135710060-eee565d4-3f4c-49f1-b779-023cbe7c300e.png" width="30%" height="30%">
 </p>
 
 ### 기여자 명단

@@ -412,11 +412,11 @@
     "word": "kipisi",
     "meanings": [
       [
-        "n*",
+        "n",
         "구획, 파편, 조각"
       ],
       [
-        "vt*",
+        "vt",
         "자르다"
       ]
     ]
@@ -606,15 +606,15 @@
     "meanings": [
       [
         "n",
-        "cold"
+        "차가움"
       ],
       [
         "mod",
-        "cold, uncooked, raw"
+        "차가운, 덜 익은, 날것의"
       ],
       [
         "vt",
-        "cool down, chill, freeze"
+        "식히다, 진정시키다, 얼리다"
       ]
     ]
   },
@@ -623,7 +623,7 @@
     "meanings": [
       [
         "sep",
-        "(between any subject except mi and sina and its verb; also used to introduce a new verb for the same subject)"
+        "주어 분리자(mi/sina 제외)"
       ]
     ]
   },
@@ -632,11 +632,11 @@
     "meanings": [
       [
         "mod",
-        "small, little, young, a bit, short, fes, less"
+        "작은, 적은, 어린, 짧은"
       ],
       [
         "vt",
-        "reduce, shorten, shrink, lessen"
+        "줄다, 감소하다, 수축하다"
       ]
     ]
   },
@@ -645,7 +645,7 @@
     "meanings": [
       [
         "n",
-        "long, very thin, floppy thing, e.g. string, rope, hair, thread, cord, chain"
+        "길고 얇은 것, Ex) 줄, 머리카락, 실, 체인"
       ]
     ]
   },
@@ -654,7 +654,7 @@
     "meanings": [
       [
         "n",
-        "flat and bendable thing, e.g. paper, card, ticket"
+        "평평하고 구부릴 수 있는 것, 책 Ex) 종이, 카드, 티켓"
       ]
     ]
   },
@@ -663,7 +663,7 @@
     "meanings": [
       [
         "mod",
-        "red"
+        "빨간"
       ]
     ]
   },
@@ -672,11 +672,15 @@
     "meanings": [
       [
         "prep",
-        "be located in/at/on"
+        "~에 위치하는"
       ],
       [
         "vi",
-        "be there, be present, be real/true, exist, be awake"
+        "존재하다, 사실이다, 깨다"
+      ],
+      [
+        "interj",
+        "네, 예(동의의 표현)"
       ]
     ]
   },
@@ -685,11 +689,11 @@
     "meanings": [
       [
         "n",
-        "hand, arm"
+        "손, 팔"
       ],
       [
         "mod",
-        "five"
+        "5"
       ]
     ]
   },
@@ -698,15 +702,15 @@
     "meanings": [
       [
         "vt",
-        "see, look at, watch, read"
+        "보다, 지켜보다, 읽다"
       ],
       [
         "vi",
-        "look, watch out, pay attention"
+        "보다, 조심하다, 집중하다"
       ],
       [
         "mod",
-        "visual, to seek to, try to, look for"
+        "시각의, 추구하는, 시도하는"
       ]
     ]
   },
@@ -715,7 +719,7 @@
     "meanings": [
       [
         "n",
-        "hole, orifice, window, door"
+        "구멍, 창문, 문"
       ]
     ]
   },
@@ -724,7 +728,7 @@
     "meanings": [
       [
         "n",
-        "land, earth, country, (outdoor) area"
+        "땅, 나라, 지구, 지역"
       ]
     ]
   },
@@ -733,11 +737,11 @@
     "meanings": [
       [
         "n",
-        "parent, mother, father"
+        "부모, 어머니, 아버지"
       ],
       [
         "mod",
-        "of the parent, parental, maternal, fatherly"
+        "부모의, 모성의, 부성의"
       ]
     ]
   },
@@ -746,7 +750,7 @@
     "meanings": [
       [
         "n",
-        "money, material wealth, currency, dollar, capital"
+        "돈, 물질적 재산, 화폐, 자본"
       ]
     ]
   },
@@ -755,11 +759,11 @@
     "meanings": [
       [
         "n",
-        "woman, female, girl, wife, girlfriend"
+        "여성, 소녀, 아내, 부인"
       ],
       [
         "mod",
-        "female, feminine, womanly"
+        "여성의"
       ]
     ]
   },
@@ -768,24 +772,37 @@
     "meanings": [
       [
         "n",
-        "I, we"
+        "나, 우리"
       ],
       [
         "mod",
-        "my, our"
+        "나의, 우리의"
       ]
     ]
   },
   {
-    "word": "mije",
+    "word": "misikeke",
     "meanings": [
       [
         "n",
-        "man, male, husband, boyfriend"
+        "약, 알약"
+      ],
+      [
+        "vt",
+        "치료하다"
+      ]
+    ]
+  },
+  {
+    "word": "mama",
+    "meanings": [
+      [
+        "n",
+        "부모, 어머니, 아버지"
       ],
       [
         "mod",
-        "male, masculine, manly"
+        "부모의, 모성의, 부성의"
       ]
     ]
   },
@@ -794,11 +811,11 @@
     "meanings": [
       [
         "n",
-        "food, meal"
+        "음식, 식사"
       ],
       [
         "vt",
-        "eat, drink, swallow, ingest, consume"
+        "먹다, 마시다, 삼키다"
       ]
     ]
   },
@@ -807,19 +824,19 @@
     "meanings": [
       [
         "n",
-        "death"
+        "죽음"
       ],
       [
         "mod",
-        "dead, deadly, fatal"
+        "죽은, 죽음의"
       ],
       [
         "vt",
-        "kill"
+        "죽이다"
       ],
       [
         "vi",
-        "die, be dead"
+        ""
       ]
     ]
   },

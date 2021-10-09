@@ -1,5 +1,9 @@
 # 도기 보나-한국어 사전
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/61646760/135710060-eee565d4-3f4c-49f1-b779-023cbe7c300e.png" width="30%" height="30%">
+</p>
+
 검색 기능을 탑재한 심플한 도기 보나(toki pona)-한국어(korean) 사전입니다.
 
 한국인 도기 보나 학습자를 위해 만들어졌으며, 공식 단어(pu word)뿐 아니라 ku word를 중심으로 한 비공식 단어까지 어느 정도 망라할 예정으로 현재 개발 중에 있습니다.
@@ -16,11 +20,7 @@
 
 ## 개발
 
-**한국도기보나모임**<sub>kulupu pi toki pona pi ma Anku</sub>에서 개발을 맡고 있습니다.
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/61646760/135710060-eee565d4-3f4c-49f1-b779-023cbe7c300e.png" width="30%" height="30%">
-</p>
+**한국도기보나모임**<sub>kulupu pi toki pona pi ma Anku</sub> 회원들이 개발을 진행하고 있습니다.
 
 ### 기여자 명단
 - [sosjo200548](https://github.com/sosjo200548)
@@ -29,5 +29,5 @@
 
 내용 수정 및 보강이 있을 때마다 rebuild 및 redeploy가 필요합니다.
 
-- `npm run deploy`을 통해 build, deploy를 동시에 수행할 수 있습니다. (package.json 참고)
-- github가 정적 페이지 호스팅을 지원하므로 gh-pages를 활용하여 배포하여야 합니다.
+- `npm run deploy`을 통해 build, deploy를 동시에 수행할 수 있습니다. (`package.json` 파일 참고)
+- github가 정적 페이지 호스팅만을 지원하므로 gh-pages를 활용하여 배포하여야 합니다.

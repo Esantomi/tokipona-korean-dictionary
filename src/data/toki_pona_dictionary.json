@@ -146,7 +146,7 @@
     "word": "epiku",
     "meanings": [
       [
-        "mod",
+        "mod*",
         "엄청난, 놀라운"
       ]
     ]
@@ -386,7 +386,7 @@
     "word": "kijetesantakalu",
     "meanings": [
       [
-        "n",
+        "n*",
         "아메리카너구리과 동물, 라쿤, 긴코너구리"
       ]
     ]
@@ -404,7 +404,7 @@
     "word": "kin",
     "meanings": [
       [
-        "mod",
+        "mod*",
         "또한, 아직, 정말로, 심지어"
       ],
       [
@@ -421,11 +421,11 @@
     "word": "kipisi",
     "meanings": [
       [
-        "n",
+        "n*",
         "구획, 파편, 조각"
       ],
       [
-        "vt",
+        "vt*",
         "자르다"
       ]
     ]
@@ -460,11 +460,11 @@
     "word": "kokosila",
     "meanings": [
       [
-        "n",
+        "n*",
         "도기 보나가 적절한 상황에서 도기 보나를 쓰지 않는 것"
       ],
       [
-        "vi",
+        "vi*",
         "도기 보나가 적절한 상황에서 도기 보나를 쓰지 않다"
       ]
     ]
@@ -486,15 +486,15 @@
     "word": "ku",
     "meanings": [
       [
-        "n",
+        "n*",
         "공식 사전 Toki Pona Dictionary를 구매하고 상호 작용하는 것"
       ],
       [
-        "mod",
-        "b공식 사전 Toki Pona Dictionary를 구매하고 상호 작용하는"
+        "mod*",
+        "공식 사전 Toki Pona Dictionary를 구매하고 상호 작용하는"
       ],
       [
-        "vi",
+        "vi*",
         "공식 사전 Toki Pona Dictionary를 구매하고 상호 작용하다"
       ]
     ]
@@ -555,7 +555,7 @@
     "word": "lanpan",
     "meanings": [
       [
-        "vt",
+        "vt*",
         "훔치다, 붙잡다, 쥐다, 잡다"
       ]
     ]
@@ -795,11 +795,11 @@
     "word": "misikeke",
     "meanings": [
       [
-        "n",
+        "n*",
         "약, 알약"
       ],
       [
-        "vt",
+        "vt*",
         "치료하다"
       ]
     ]
@@ -937,15 +937,15 @@
     "word": "namako",
     "meanings": [
       [
-        "n",
+        "n*",
         "양념, 추가적인 것, 식품 첨가물, 장신구"
       ],
       [
-        "vt",
+        "vt*",
         "양념하다, 맛을 내다, 장식하다"
       ],
       [
-        "mod",
+        "mod*",
         "매운, 톡 쏘는 듯한"
       ]
     ]
@@ -1042,7 +1042,7 @@
     "word": "oko",
     "meanings": [
       [
-        "n",
+        "n*",
         "눈"
       ]
     ]
@@ -1280,11 +1280,11 @@
     "meanings": [
       [
         "n",
-        "도기 보나 공식 서적 Toki Pona: The Language of Good을 구매하고 상호작용하는 것"
+        "도기 보나 공식 서적 Toki Pona: The Language of Good을 구매하고 상호 작용하는 것"
       ],
       [
         "mod",
-        "도기 보나 공식 서적 Toki Pona: The Language of Good을 구매하고 상호작용하는"
+        "도기 보나 공식 서적 Toki Pona: The Language of Good을 구매하고 상호 작용하는"
       ],
       [
         "vt",
@@ -1292,7 +1292,7 @@
       ],
       [
         "vi",
-        "도기 보나 공식 서적 Toki Pona: The Language of Good을 구매하고 상호작용하다"
+        "도기 보나 공식 서적 Toki Pona: The Language of Good을 구매하고 상호 작용하다"
       ]
     ]
   },
@@ -1435,7 +1435,7 @@
     "word": "soko",
     "meanings": [
       [
-        "n",
+        "n*",
         "균류, 버섯, 곰팡이류"
       ]
     ]
@@ -1633,7 +1633,7 @@
     "word": "tonsi",
     "meanings": [
       [
-        "mod",
+        "mod*",
         "성 소수자의, 젠더 퀴어의, 트렌스젠더의, 젠더 구분에 비순응적인"
       ]
     ]

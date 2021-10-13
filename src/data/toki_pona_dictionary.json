@@ -143,6 +143,15 @@
     ]
   },
   {
+    "word": "epiku",
+    "meanings": [
+      [
+        "mod",
+        "엄청난, 놀라운"
+      ]
+    ]
+  },
+  {
     "word": "esun",
     "meanings": [
       [
@@ -926,16 +935,16 @@
     "word": "namako",
     "meanings": [
       [
-        "n*",
-        "spice, something extra, food additive, accessory"
+        "n",
+        "양념, 추가적인 것, 식품 첨가물, 장신구"
       ],
       [
-        "vt*",
-        "to spice, to flavor, to decorate"
+        "vt",
+        "양념하다, 맛을 내다, 장식하다"
       ],
       [
-        "mod*",
-        "spicy, piquant"
+        "mod",
+        "매운, 톡 쏘는듯 한"
       ]
     ]
   },
@@ -944,11 +953,11 @@
     "meanings": [
       [
         "n",
-        "number"
+        "수, 숫자"
       ],
       [
         "oth",
-        "-th (ordinal numbers)"
+        "~번째(서수)"
       ]
     ]
   },
@@ -957,11 +966,11 @@
     "meanings": [
       [
         "mod",
-        "silly, crazy, foolish, drunk, strange, stupid, weird"
+        "어리석은, 미친, 취한, 이상한, 멍청한"
       ],
       [
         "vt",
-        "drive crazy, make weird"
+        "~를 미치게 하다"
       ]
     ]
   },
@@ -970,7 +979,7 @@
     "meanings": [
       [
         "n",
-        "way, manner, custom, road, path, doctrine, system, method"
+        "방법, 태도, 습관, 길, 정책, 체계, 방식"
       ]
     ]
   },
@@ -979,7 +988,7 @@
     "meanings": [
       [
         "n",
-        "bump, hill, mountain, button, nose"
+        "혹, 언덕, 산, 버튼, 코"
       ]
     ]
   },
@@ -988,7 +997,7 @@
     "meanings": [
       [
         "mod",
-        "this, that"
+        "이(것), 저(것)"
       ]
     ]
   },
@@ -997,7 +1006,7 @@
     "meanings": [
       [
         "n",
-        "word, name"
+        "단어, 이름"
       ]
     ]
   },
@@ -1006,7 +1015,7 @@
     "meanings": [
       [
         "n",
-        "leg, foot"
+        "다리, 발"
       ]
     ]
   },
@@ -1015,11 +1024,11 @@
     "meanings": [
       [
         "sep",
-        "O (vocative or imperative)"
+        "호격 포시자"
       ],
       [
         "interj",
-        "hey! (calling somebody's attention)"
+        "야!, 이봐!"
       ]
     ]
   },
@@ -1028,7 +1037,7 @@
     "meanings": [
       [
         "n",
-        "eye"
+        "눈"
       ]
     ]
   },
@@ -1037,15 +1046,15 @@
     "meanings": [
       [
         "n",
-        "love"
+        "사랑"
       ],
       [
         "mod",
-        "love"
+        "사랑의, 사랑하는"
       ],
       [
         "vt",
-        "to love (a person)"
+        "사랑하다"
       ]
     ]
   },
@@ -1054,11 +1063,11 @@
     "meanings": [
       [
         "n",
-        "he, she, it, they"
+        "그, 그녀, 그것, 그들"
       ],
       [
         "mod",
-        "his, her, its, their"
+        "그의, 그녀의, 그것의, 그들의"
       ]
     ]
   },
@@ -1067,7 +1076,7 @@
     "meanings": [
       [
         "vt",
-        "open, turn on"
+        "열다, 켜다"
       ]
     ]
   },
@@ -1076,19 +1085,19 @@
     "meanings": [
       [
         "n",
-        "blunder, accident, mistake, destruction, damage, breaking"
+        "실수, 사고, 파괴, 손상"
       ],
       [
         "vt",
-        "screw up, fuck up, botch, ruin, break, hurt, injure, damage, bungle, spoil, ruin"
+        "망치다, 조지다, 부수다, 파괴하다, 해치다"
       ],
       [
         "vi",
-        "screw up, fall apart, break"
+        "망치다, 부서지다, 분해되다"
       ],
       [
         "interj",
-        "damn! fuck!"
+        "젠장!, 망할!"
       ]
     ]
   },
@@ -1097,19 +1106,19 @@
     "meanings": [
       [
         "n",
-        "activity, work, deed, project"
+        "활동, 일, 프로젝트"
       ],
       [
         "mod",
-        "active, work-related, operating, working"
+        "활발한, 일과 관련된, 작동중인, 일하는"
       ],
       [
         "vt",
-        "do, make, build, create"
+        "하다, 만들다, 건설하다, 창조하다"
       ],
       [
         "vi",
-        "act, work, function"
+        "행동하다, 일하다, 작동하다"
       ]
     ]
   },
@@ -1118,7 +1127,7 @@
     "meanings": [
       [
         "n",
-        "long, mostly hard object, e.g. rod, stick, branch"
+        "길고 단단한 물건 ex)막대기, 나뭇가지"
       ]
     ]
   },
@@ -1127,7 +1136,7 @@
     "meanings": [
       [
         "n",
-        "cereal, grain, barley, corn, oat, rice, wheat, bread, pasta"
+        "시리얼, 곡물, 보리, 옥수수, 밥, 밀, 빵, 파스타"
       ]
     ]
   },
@@ -1136,11 +1145,11 @@
     "meanings": [
       [
         "vt",
-        "give, put, send, place, release, emit, cause"
+        "주다, 넣다, 보내다, 위치하다, 배출하다, 일으키다"
       ],
       [
         "n",
-        "giving, transfer, exchange"
+        "전달, 교환"
       ]
     ]
   },
@@ -1149,7 +1158,7 @@
     "meanings": [
       [
         "sep",
-        "of, belonging to"
+        "수식어 분리자(~의)"
       ]
     ]
   },
@@ -1158,15 +1167,15 @@
     "meanings": [
       [
         "n",
-        "feelings, emotion, heart"
+        "감정, 심장, 느낌"
       ],
       [
         "vi",
-        "feel"
+        "느끼다"
       ],
       [
         "vt",
-        "feel, think, sense, touch"
+        "느끼다, 생각하다, 만지다"
       ]
     ]
   },
@@ -1175,15 +1184,15 @@
     "meanings": [
       [
         "mod",
-        "black, dark"
+        "검은, 어두운"
       ],
       [
         "n",
-        "darkness, shadows"
+        "어두움, 그림자"
       ],
       [
         "vt",
-        "darken"
+        "어둡게 하다"
       ]
     ]
   },
@@ -1192,15 +1201,15 @@
     "meanings": [
       [
         "n",
-        "end, tip"
+        "끝"
       ],
       [
         "mod",
-        "completed, finished, past, done, ago"
+        "완전한, 끝난, 과거의"
       ],
       [
         "vt",
-        "finish, close, end, turn off"
+        "끝내다, 닫다, 마치다"
       ]
     ]
   },
@@ -1209,7 +1218,7 @@
     "meanings": [
       [
         "n",
-        "bug, insect, spider"
+        "벌레, 곤충, 거미"
       ]
     ]
   },
@@ -1218,15 +1227,15 @@
     "meanings": [
       [
         "n",
-        "side, hip, next to"
+        "옆, 면"
       ],
       [
         "mod",
-        "neighboring"
+        "이웃하는"
       ],
       [
         "prep",
-        "in the accompaniment of, with"
+        "~와 함께하는, ~와 같이"
       ]
     ]
   },
@@ -1235,7 +1244,7 @@
     "meanings": [
       [
         "n",
-        "container, box, bowl, cup, glass"
+        "용기, 박스, 그릇, 컵, 잔"
       ]
     ]
   },
@@ -1244,19 +1253,19 @@
     "meanings": [
       [
         "n",
-        "good, simplicity, positivity"
+        "좋음, 단순함, 긍정"
       ],
       [
         "mod",
-        "good, simple, positive, nice, correct, right"
+        "좋은, 단순한, 긍정적인, 멋진, 올바름"
       ],
       [
         "interj",
-        "great! good! thanks! OK! cool! yay!"
+        "좋아!, 훌륭해!, 고마워!, 알겠어!"
       ],
       [
         "vt",
-        "improve, fix, repair, make good"
+        "개선하다, 고치다, 수리하다, 좋게 하다"
       ]
     ]
   },
@@ -1265,19 +1274,19 @@
     "meanings": [
       [
         "n",
-        "buying and interacting with the official Toki Pona book"
+        "도기 보나 공식 서적 Toki Pona: The Language of Good을 구매하고 상호작용하는 것"
       ],
       [
         "mod",
-        "buying and interacting with the official Toki Pona book"
+        "도기 보나 공식 서적 Toki Pona: The Language of Good을 구매하고 상호작용하는"
       ],
       [
         "vt",
-        "to apply (the official Toki Pona book) to…"
+        "도기 보나 공식 서적 Toki Pona: The Language of Good을 ~에 적용하다"
       ],
       [
         "vi",
-        "to buy and to read (the official Toki Pona book)"
+        "도기 보나 공식 서적 Toki Pona: The Language of Good을 구매하고 상호작용하다"
       ]
     ]
   },
@@ -1286,15 +1295,15 @@
     "meanings": [
       [
         "mod",
-        "same, similar, equal, of equal status or position"
+        "같은, 유사한, 동등한"
       ],
       [
         "prep",
-        "like, as, seem"
+        "~처럼, ~로서"
       ],
       [
         "cont",
-        "similarly, in the same way that"
+        "비슷하게도, 마찬가지로"
       ]
     ]
   },
@@ -1303,15 +1312,15 @@
     "meanings": [
       [
         "n",
-        "fire, warmth, heat"
+        "불, 따뜻함, 열"
       ],
       [
         "mod",
-        "hot, warm, cooked"
+        "뜨거운, 따뜻한, 조리된"
       ],
       [
         "vt",
-        "heat, warm up, cook"
+        "데우다, 요리하다, 가열하다"
       ]
     ]
   },
@@ -1320,7 +1329,7 @@
     "meanings": [
       [
         "n",
-        "outside, surface, skin, shell, bark, shape, peel"
+        "바깥, 표면, 피부, 껍질, 모양"
       ]
     ]
   },
@@ -1329,7 +1338,7 @@
     "meanings": [
       [
         "oth",
-        "what, which, wh- (question word)"
+        "무슨, 무엇(의문사)"
       ]
     ]
   },
@@ -1338,11 +1347,11 @@
     "meanings": [
       [
         "n",
-        "high, up, above, top, over, on"
+        "높음, 위, 상위"
       ],
       [
         "mod",
-        "superior, elevated, religious, formal"
+        "상위의, 높은, 종교적인, 공식적인"
       ]
     ]
   },
@@ -1351,7 +1360,7 @@
     "meanings": [
       [
         "n",
-        "body, physical state"
+        "신체, 신체적 상태"
       ]
     ]
   },
@@ -1360,11 +1369,11 @@
     "meanings": [
       [
         "n",
-        "circle, wheel, sphere, ball, cycle"
+        "원, 바퀴, 구, 공, 순환"
       ],
       [
         "mod",
-        "round, cyclical"
+        "둥근, 순환하는"
       ]
     ]
   },
@@ -1373,11 +1382,11 @@
     "meanings": [
       [
         "mod",
-        "new, fresh, another, more"
+        "새로운, 신선한, 또 다른, 더"
       ],
       [
         "vt",
-        "renew, renovate, freshen"
+        "갱신하다, 개조하다, 상쾌하게 하다"
       ]
     ]
   },
@@ -1386,11 +1395,11 @@
     "meanings": [
       [
         "n",
-        "you"
+        "너, 너희"
       ],
       [
         "mod",
-        "your"
+        "너, 너희의"
       ]
     ]
   },
@@ -1399,7 +1408,7 @@
     "meanings": [
       [
         "n",
-        "front, chest, torso, wall"
+        "앞, 가슴, 상체, 벽"
       ]
     ]
   },
@@ -1408,11 +1417,20 @@
     "meanings": [
       [
         "n",
-        "picture, image"
+        "그림, 사진, 이미지, 문자"
       ],
       [
         "vt",
-        "draw, write"
+        "그리다, 쓰다"
+      ]
+    ]
+  },
+  {
+    "word": "soko",
+    "meanings": [
+      [
+        "n",
+        "균류, 버섯, 곰팡이류"
       ]
     ]
   },
@@ -1421,19 +1439,19 @@
     "meanings": [
       [
         "n",
-        "knowledge, wisdom, intelligence, understanding"
+        "지식, 지혜, 지성, 이해"
       ],
       [
         "vt",
-        "know, understand, know how to"
+        "알다, 이해하다, 어떻게 하는지 알다"
       ],
       [
         "vi",
-        "know, understand"
+        "알다, 이해하다"
       ],
       [
         "kama",
-        "learn, study"
+        "배우다, 학습하다"
       ]
     ]
   },
@@ -1468,7 +1486,7 @@
     "meanings": [
       [
         "n",
-        "sun, light"
+        "해, 빛"
       ]
     ]
   },
@@ -1477,7 +1495,7 @@
     "meanings": [
       [
         "n",
-        "horizontal surface, e.g. furniture, table, chair, pillow, floor"
+        "평평한 포면 ex) 가구, 탁자, 의자, 베개, 층"
       ]
     ]
   },
@@ -1486,15 +1504,15 @@
     "meanings": [
       [
         "n",
-        "candy, sweet food"
+        "사탕, 달콤한 음식"
       ],
       [
         "mod",
-        "sweet, cute"
+        "달콤한, 귀여운"
       ],
       [
         "vt",
-        "sweeten"
+        "설탕을 넣다"
       ]
     ]
   },
@@ -1503,11 +1521,11 @@
     "meanings": [
       [
         "prep",
-        "from, by, because of, since"
+        "~에서 온, ~때문에"
       ],
       [
         "n",
-        "origin, cause"
+        "근원, 원인"
       ]
     ]
   },
@@ -1529,23 +1547,23 @@
     "meanings": [
       [
         "prep",
-        "to, in order to, towards, for, until"
+        "~까지, ~때문에, ~를 향하다, ~를 위해, ~까지"
       ],
       [
         "n",
-        "movement, transportation"
+        "움직임, 수송"
       ],
       [
         "mod",
-        "moving, mobile"
+        "움직이는, 이동하는"
       ],
       [
         "vi",
-        "go, leave, walk, travel, move"
+        "가다, 떠나다, 걷다, 여행하다, 움직이다"
       ],
       [
         "vt",
-        "move, displace"
+        "~를 움직이다, 대신하다"
       ]
     ]
   },
@@ -1554,11 +1572,11 @@
     "meanings": [
       [
         "n",
-        "water, liquid, juice, sauce"
+        "물, 액체, 주스, 소스"
       ],
       [
         "vt",
-        "water, wash with water"
+        "물 주다, 물로 씻다"
       ]
     ]
   },
@@ -1567,7 +1585,7 @@
     "meanings": [
       [
         "n",
-        "time, period of time, moment, duration, situation"
+        "시간, 순간, 기간, 상황"
       ]
     ]
   },
@@ -1576,19 +1594,19 @@
     "meanings": [
       [
         "n",
-        "language, talking, speech, communication"
+        "언어, 대화, 연설, 의사소통"
       ],
       [
         "vt",
-        "say"
+        "말하다"
       ],
       [
         "vi",
-        "talk, chat, communicate"
+        "대화하다, 떠들다, 의사소통하다"
       ],
       [
         "interj",
-        "hello! hi!"
+        "안녕!"
       ]
     ]
   },
@@ -1597,11 +1615,11 @@
     "meanings": [
       [
         "n",
-        "indoor constructed space, e.g. house, home, room, building"
+        "인공적인 실내 공간 ex) 집, 방, 건물"
       ],
       [
         "mod",
-        "urban, domestic, household"
+        "시내의, 가정의, 실내의"
       ]
     ]
   },
@@ -1609,8 +1627,8 @@
     "word": "tonsi",
     "meanings": [
       [
-        "mod*",
-        "queer, non-binary, gender non-conforming"
+        "mod",
+        "성소수자의, 논바이너리의, 트렌스젠더의, 젠더 논컴포밍의"
       ]
     ]
   },
@@ -1619,15 +1637,15 @@
     "meanings": [
       [
         "mod",
-        "two"
+        "2"
       ],
       [
         "n",
-        "duo, pair"
+        "쌍, 두 개"
       ],
       [
         "vt",
-        "double, separate/cut/divide in two"
+        "두 배로 곱하다, 두 개로 나누다"
       ]
     ]
   },
@@ -1636,19 +1654,19 @@
     "meanings": [
       [
         "n",
-        "sex, sexuality"
+        "성, 성생활"
       ],
       [
         "mod",
-        "erotic, sexual"
+        "에로틱한, 성적인"
       ],
       [
         "vt",
-        "have sex with, sleep with, fuck"
+        "~와 성관계하다, ~와 자다"
       ],
       [
         "vi",
-        "have sex"
+        "성관계 하다"
       ]
     ]
   },
@@ -1657,11 +1675,11 @@
     "meanings": [
       [
         "n",
-        "mouth"
+        "입"
       ],
       [
         "mod",
-        "oral"
+        "구강의"
       ]
     ]
   },
@@ -1670,11 +1688,11 @@
     "meanings": [
       [
         "n",
-        "conflict, disharmony, competition, fight, war, battle, attack, blow, argument, physical or verbal violence"
+        "갈등, 부조화, 경쟁, 싸움, 전쟁, 대전, 공격, 논쟁, 물리적 또는 언어적 폭력"
       ],
       [
         "vt",
-        "hit, strike, attack, compete against"
+        "때리다, 치다, 공격하다, 서로 경쟁하다"
       ]
     ]
   },
@@ -1683,11 +1701,11 @@
     "meanings": [
       [
         "mod",
-        "white, light (colour)"
+        "하얀"
       ],
       [
         "n",
-        "white thing/part, whiteness, lightness"
+        "하얀 것, 하얀색"
       ]
     ]
   },
@@ -1696,15 +1714,15 @@
     "meanings": [
       [
         "mod",
-        "one, a"
+        "하나의"
       ],
       [
         "n",
-        "unit, element, particle, part, piece"
+        "단위, 원소, 입자, 부분, 조각"
       ],
       [
         "vt",
-        "unite, make one"
+        "단결하다, 하나되다"
       ]
     ]
   },
@@ -1713,7 +1731,7 @@
     "meanings": [
       [
         "n",
-        "bird, winged animal"
+        "새, 날개 달린 "
       ]
     ]
   },
@@ -1722,15 +1740,15 @@
     "meanings": [
       [
         "n",
-        "energy, strength, power"
+        "힘, 에너지, 강함"
       ],
       [
         "mod",
-        "energetic, strong, fierce, intense, sure, confident"
+        "힘찬, 강한, 사나운, 강렬한, 확실한, 자신감이 있는"
       ],
       [
         "vt",
-        "strengthen, energize, empower"
+        "강하게 하다, 활기를 북돋우다, 권한을 주다"
       ]
     ]
   },
@@ -1739,15 +1757,15 @@
     "meanings": [
       [
         "mod",
-        "away, absent, missing"
+        "부재한, 실종된, 없는"
       ],
       [
         "n",
-        "absence"
+        "부재"
       ],
       [
         "vt",
-        "throw away, remove, get rid of"
+        "버리다, 제거하다"
       ]
     ]
   },
@@ -1756,15 +1774,15 @@
     "meanings": [
       [
         "vt",
-        "to want, need, wish, have to, must, will, should"
+        "원하다, 필요하다, 소망하다, ~해야 한다, ~할 것이다"
       ],
       [
         "n",
-        "desire, need, will"
+        "욕망, 필요, 의지"
       ],
       [
         "mod",
-        "necessary"
+        "필요한"
       ]
     ]
   }

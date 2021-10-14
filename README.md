@@ -16,11 +16,16 @@
 
 도기 보나는 도가 사상의 영향을 받아 세상을 간결하게, 있는 그대로 보고자 하는 목적을 지닌 철학어(philosophical language)의 하나로, 일반적인 자연어와는 다른 특성을 갖습니다.
 
-도기 보나 한국어 강의 컨텐츠는 추후 별도로 업로드할 계획입니다.
+자세한 것은 아래 링크를 참고해 주세요.
+
+- [위키백과](https://ko.wikipedia.org/wiki/%EB%8F%84%EA%B8%B0_%EB%B3%B4%EB%82%98)
+- [나무위키](https://namu.wiki/w/%EB%8F%84%EA%B8%B0%20%EB%B3%B4%EB%82%98?from=%ED%86%A0%ED%82%A4%20%ED%8F%AC%EB%82%98)
 
 ## 개발
 
 **한국도기보나모임**<sub>kulupu pi toki pona pi ma Anku</sub> 회원들이 개발을 진행하고 있습니다.
+
+도기 보나 한국어 강의 컨텐츠는 추후 별도로 업로드할 계획입니다.
 
 ### 기여자 명단
 - [sosjo200548](https://github.com/sosjo200548)

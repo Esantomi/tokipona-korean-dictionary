@@ -36,4 +36,4 @@
 
 - `npm run deploy`을 통해 build, deploy를 동시에 수행할 수 있습니다. (`package.json` 파일 참고) 
   - github가 정적 페이지 호스팅만을 지원하므로 gh-pages를 활용하여 배포하여야 합니다.
-  - 단순히 **내용 수정 후 `npm run deploy`**를 하면 됩니다.
+- build 및 deploy에 문제가 있을 시 Issues 참고 [#](https://github.com/Esantomi/tokipona-korean-dictionary/issues/2)

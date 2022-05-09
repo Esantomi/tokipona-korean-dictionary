@@ -34,5 +34,6 @@
 
 내용 수정 및 보강이 있을 때마다 rebuild 및 redeploy가 필요합니다.
 
-- `npm run deploy`을 통해 build, deploy를 동시에 수행할 수 있습니다. (`package.json` 파일 참고)
-- github가 정적 페이지 호스팅만을 지원하므로 gh-pages를 활용하여 배포하여야 합니다.
+- `npm run deploy`을 통해 build, deploy를 동시에 수행할 수 있습니다. (`package.json` 파일 참고) 
+  - github가 정적 페이지 호스팅만을 지원하므로 gh-pages를 활용하여 배포하여야 합니다.
+  - 단순히 **내용 수정 후 `npm run deploy`**를 하면 됩니다.
